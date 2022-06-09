@@ -59,3 +59,8 @@ Once running you can start editing the page by modifying `src/pages/index.tsx`.
 ### 4. Change defaults
 
 Change the package name in package.json
+Change Readme Deploy to Vercel link if required.
+
+# Thanks
+
+[Theodorus Clarence](https://github.com/theodorusclarence) and his great template [ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter).
