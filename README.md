@@ -15,12 +15,12 @@
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter project-name
+   npx create-next-app -e https://github.com/a-smiggle/nextail-template project-name
    ```
 
 3. Deploy to Vercel
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fa-smiggle%2Fnextail-template)
 
 ### 2. Install dependencies
 
